@@ -1,0 +1,6 @@
+# Requirements for OctoFit Tracker Backend
+# Based on Monafit Tracker documentation
+
+django==4.2.3
+djangorestframework==3.14.0
+pymongo==4.5.0
